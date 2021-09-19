@@ -11,7 +11,7 @@
  * Plugin Name:       Premia Demo
  * Plugin URI:        https://getpremia.com/premia-demo
  * Description:       Premia Demo
- * Version:           5.9.1.3
+ * Version:           5.9.1.4
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Marinus Klasen
