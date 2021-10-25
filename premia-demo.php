@@ -40,7 +40,7 @@ class Premia_Demo {
 	 *
 	 * @var string $plugin_name The Woocommerce product slug
 	 */
-	private $version = '1.0';
+	private $version = '7.6.2.7';
 
 	/**
 	 * Set the API url
