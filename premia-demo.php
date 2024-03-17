@@ -11,7 +11,7 @@
  * Plugin Name:       Premia Demo
  * Plugin URI:        https://getpremia.com/premia-demo
  * Description:       Premia Demo
- * Version:           4.9.5.6.7
+ * Version:           4.9.5.6.8
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Marinus Klasen
@@ -40,7 +40,7 @@ class Premia_Demo {
 	 *
 	 * @var string $plugin_name The Woocommerce product slug
 	 */
-	private $version = '4.9.5.6.7';
+	private $version = '4.9.5.6.8';
 
 	/**
 	 * Set the API url
